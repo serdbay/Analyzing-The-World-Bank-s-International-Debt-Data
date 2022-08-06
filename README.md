@@ -1,5 +1,5 @@
 # Analyzing The World Bank's International Debt Data
-A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country's citizens to lead comfortable lives. In this project, we are going to analyze international debt data collected by The World Bank.
+A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country's citizens to lead comfortable lives. In this project, we are going to analyze international debt data collected by The World Bank. 
 
 ## Table of Contents
 * [General Info](#general-information)
